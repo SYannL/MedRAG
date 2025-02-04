@@ -5,7 +5,7 @@
 💻 This is the implementation for our accepted paper *MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot*.
 
 #### Authors
-*Xuejiao Zhao\**,  *Siyan Liu\**,  *Su-Yin Yang*,  *Chunyan Miao\*\**
+*Xuejiao Zhao\**,  **Siyan Liu\***,  *Su-Yin Yang*,  *Chunyan Miao\*\**
 
 \* Both authors contributed equally to the paper
 
